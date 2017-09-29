@@ -16,3 +16,5 @@
 5 3 2 //คือของที่เลือก
 
 อ้างอิงalgoจาก https://www.youtube.com/watch?v=VILNeEZkTKk
+
+code บ่างส่วนจาก http://rerun.me/2014/05/27/the-knapsack-problem/
